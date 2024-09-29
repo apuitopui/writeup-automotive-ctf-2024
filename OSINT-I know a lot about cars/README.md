@@ -12,4 +12,5 @@ Translated to Japanese:
 ## Solution
 Since I don't know a lot about cars, I used Google Lens to identify the given image. Google Lens' visual match shows that this is Lamborghini Cheetah.<br>
 **Flag : bh{Lamborghini_Cheetah}**
+<br>
 <img src="img/Screenshot.png" alt="Solution" width="300" height="auto">

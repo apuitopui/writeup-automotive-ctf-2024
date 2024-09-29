@@ -12,5 +12,5 @@ Translated to Japanese:
 ## Solution
 I used ChatGPT to analyze the license plate of the image. And, ChatGPT indicated this is Lithuanian license plate.<br>
 **Flag : Lithuania**
-
+<br>
 <img src="img/image.png" alt="Solution" width="500" height="auto">

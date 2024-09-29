@@ -19,12 +19,14 @@ Translated to Japanese:
 
 ### Image pixel value
 A pixel of an image consists of red, green, blue(R, G, B) value, each with 1 byte(value of 0 ~ 255) of color data. For example a red pixel is (255, 0, 0) represents 255 of red, 0 of blue and 0 of green.
+<br>
 <img src="img/red_caption.png" alt="red_caption" width="350" height="auto">
 
 ### Steganography LSB principle
 Modifying the LSB of pixels of an image is usually used to hide the image. 
 LSB of a pixel has weight of 1, where modifying LSB makes no significant difference on the color visually.
 For example, the image shown below of red(255, 0, 0) and red(254, 0, 0) has no difference that human eyes can identify.
+<br>
 <img src="img/lsb_caption.png" alt="red_caption" width="800" height="auto">
 
 This is modified LSB pixels are used to create a pattern of the hidden text.
