@@ -1,4 +1,4 @@
-# Write-up for Preliminaries of Automotive CTF 2024
+# Write-up for Automotive CTF 2024
 This is my write-up of my solved challenges for preliminary round of [Automotive CTF 2024](https://vicone.com/jp/automotive-ctf).
 Some challenges were solved after the event ended, therefore unable to check for the correct answer.
 ![Automotive CTF 2024](image/automotive-ctf.jpg)
@@ -13,7 +13,7 @@ Some challenges were solved after the event ended, therefore unable to check for
 |Category|Challenge|Description|
 | --- | --- | --- |
 |OSINT | [Scanning Plates](./OSINT-Scanning%20Plates/README.md) |What country’s license place is this? The answer format is just the country’s name.|
-|OSINT | [I know a lot about cars](./OSINT-Scanning%20Plates/README.md) |You say you know your cars. Let’s check how well you know them. What is the make and model of this vehicle? Write the answer using the following format: Make Model. For example: bh{Volkswagen_Beetle}|
+|OSINT | [I know a lot about cars](./OSINT-I%20know%20a%20lot%20about%20cars/README.md) |You say you know your cars. Let’s check how well you know them. What is the make and model of this vehicle? Write the answer using the following format: Make Model. For example: bh{Volkswagen_Beetle}|
 |Stego | [Stego1](./Stego-Stego1/README.md) |Find the hidden text|
 |Misc | [I Lost my Tesla NFC Card ](./Misc-I%20Lost%20my%20Tesla%20NFC%20Card/README.md)|Oh no! I lost my Tesla NFC Card and I can’t open my car. Luckily, I was able to hack into my hotel network which contains my NFC data. Can you please retrieve it?|
 |Misc| [Gameboy Game](./Misc-Gameboy%20Game/README.md) |Who needs a defcon badge when you've got an emulator? Dodge some cones, have some fun.|

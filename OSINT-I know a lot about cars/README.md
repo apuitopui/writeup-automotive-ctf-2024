@@ -10,6 +10,6 @@ Translated to Japanese:
 あなたは車に詳しいと言っていますが、それではどれだけ詳しいか確認してみましょう。この車のメーカーとモデルは何ですか？次の形式で回答してください：Make Model。例えば：bh{Volkswagen_Beetle}
 
 ## Solution
-Since I don't know a lot about cars, I used Google Lens to identify the given image. Google Lens' visual match shows that this is Lamborghini Cheetah.
+Since I don't know a lot about cars, I used Google Lens to identify the given image. Google Lens' visual match shows that this is Lamborghini Cheetah.<br>
 **Flag : bh{Lamborghini_Cheetah}**
 <img src="img/Screenshot.png" alt="Solution" width="300" height="auto">
