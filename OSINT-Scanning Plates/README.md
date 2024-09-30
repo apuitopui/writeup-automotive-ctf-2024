@@ -6,7 +6,7 @@
 
 ## Description
 What country’s license place is this? The answer format is just the country’s name.<br>
-Translated to Japanese:
+Translated to Japanese:<br>
 このナンバープレートはどこの国のものですか？回答形式は国名のみです。
 
 ## Solution

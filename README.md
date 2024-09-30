@@ -1,8 +1,8 @@
-# Write-up for Automotive CTF 2024
-This is my write-up of my solved challenges for preliminary round of [Automotive CTF 2024](https://vicone.com/jp/automotive-ctf).
+# Writeup for Automotive CTF 2024
+This is my writeup of my solved challenges for qualifying round of [Automotive CTF 2024](https://vicone.com/jp/automotive-ctf).
 Some challenges were solved after the event ended, therefore unable to check for the correct answer.
 ![Automotive CTF 2024](image/automotive-ctf.jpg)
-| Event | Automotive CTF Japan 2024 <br> Preliminary round|
+| Event | Automotive CTF Japan 2024 <br> Qualifying round|
 | --- | --- |
 | **Organizer** | [VicOne](https://vicone.com/) x [Block Harbor](https://blockharbor.io/) |
 | **Date** | 25 August 2024 ~ 8 September 2024 |

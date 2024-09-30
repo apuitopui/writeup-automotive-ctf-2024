@@ -12,7 +12,7 @@
 
 ## Description
 Find the hidden text<br>
-Translated to Japanese:
+Translated to Japanese:<br>
 隠されたテキストを見つけてください
 
 ## Solution
@@ -33,17 +33,17 @@ This is modified LSB pixels are used to create a pattern of the hidden text.
 
 ### Analyzing the image
 I used GIMP to analyze the image.
-![alt text](img/image-3.png)
+![gimp](img/image-3.png)
 The image in the challenge is the Block Harbor logo and is quite simple, consists only red and white color.  First, I analyze the white pixel which is (255, 255, 255) in theory. Because hidden text is usually by modifying LSB pixel value, I exclude the value besides 255.
 
 #### Threshold on Red Channel:
-![alt text](img/image.png)
+![red-threshold](img/image.png)
 
 #### Threshold on Green channel:
-![alt text](img/image-1.png)
+![green-threshold](img/image-1.png)
 
 #### Threshold on Blue channel:
-![alt text](img/image-2.png)
+![blue-threshold](img/image-2.png)
 
 
 By thresholding to 255 on each RGB channel, the hidden text `FoundME` was found on green and blue channel.<br>
