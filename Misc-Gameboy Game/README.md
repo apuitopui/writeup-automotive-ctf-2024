@@ -17,7 +17,7 @@ The rule of the game are:
 * Cone moves randomly and reset the score if hit by it
 * Score exactly 32767 to complete the level
 <br>
-![game_overview](https://github.com/apuitopui/writeup-automotive-ctf-2024/blob/main/Misc-Gameboy%20Game/img/game.gif)
+![](https://github.com/apuitopui/writeup-automotive-ctf-2024/blob/main/Misc-Gameboy%20Game/img/game.gif)
 
 ### Used tools
 * [mGBA](https://mgba.io/) : Gameboy Advanced emulator 
